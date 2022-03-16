@@ -1,0 +1,29 @@
+!<thin>
+//                                              220       `
+nf_defrag_ipv4.o/
+nf_socket_ipv4.o/
+nf_tproxy_ipv4.o/
+nf_log_arp.o/
+nf_log_ipv4.o/
+nf_reject_ipv4.o/
+nf_nat_h323.o/
+nf_nat_pptp.o/
+nft_reject_ipv4.o/
+nft_fib_ipv4.o/
+nft_dup_ipv4.o/
+nf_flow_table_ipv4.o/
+nf_dup_ipv4.o/
+
+/0              0           0     0     644     5560      `
+/18             0           0     0     644     4392      `
+/36             0           0     0     644     6776      `
+/54             0           0     0     644     6744      `
+/68             0           0     0     644     11288     `
+/83             0           0     0     644     10424     `
+/101            0           0     0     644     14392     `
+/116            0           0     0     644     7184      `
+/131            0           0     0     644     4712      `
+/150            0           0     0     644     7480      `
+/166            0           0     0     644     4920      `
+/182            0           0     0     644     3752      `
+/204            0           0     0     644     4344      `

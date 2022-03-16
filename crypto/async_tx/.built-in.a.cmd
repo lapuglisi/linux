@@ -1,0 +1,1 @@
+cmd_crypto/async_tx/built-in.a := echo >/dev/null; rm -f crypto/async_tx/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST crypto/async_tx/built-in.a crypto/async_tx/async_tx.o crypto/async_tx/async_xor.o

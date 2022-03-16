@@ -1,0 +1,54 @@
+!<thin>
+//                                              440       `
+sun4i_drv.o/
+sun4i_framebuffer.o/
+sun4i_crtc.o/
+sun4i_dotclock.o/
+sun4i_lvds.o/
+sun4i_tcon.o/
+sun4i_rgb.o/
+sun4i_tv.o/
+sun6i_drc.o/
+sun4i_backend.o/
+sun4i_layer.o/
+sun4i_frontend.o/
+sun4i_hdmi_ddc_clk.o/
+sun4i_hdmi_enc.o/
+sun4i_hdmi_i2c.o/
+sun4i_hdmi_tmds_clk.o/
+sun8i_dw_hdmi.o/
+sun8i_hdmi_phy.o/
+sun8i_hdmi_phy_clk.o/
+sun8i_mixer.o/
+sun8i_ui_layer.o/
+sun8i_vi_layer.o/
+sun8i_ui_scaler.o/
+sun8i_vi_scaler.o/
+sun8i_csc.o/
+sun8i_tcon_top.o/
+/0              0           0     0     644     16848     `
+/13             0           0     0     644     2256      `
+/34             0           0     0     644     8784      `
+/48             0           0     0     644     5368      `
+/66             0           0     0     644     5616      `
+/80             0           0     0     644     32512     `
+/94             0           0     0     644     6656      `
+/107            0           0     0     644     13472     `
+/119            0           0     0     644     7944      `
+/132           /0           0     0     644     24552     `
+/149            0           0     0     644     7600      `
+/164            0           0     0     644     22064     `
+/182            0           0     0     644     3032      `
+/204            0           0     0     644     18232     `
+/222            0           0     0     644     6584      `
+/240            0           0     0     644     4368      `
+/263           /0           0     0     644     11280     `
+/280            0           0     0     644     15568     `
+/298            0           0     0     644     3800      `
+/320            0           0     0     644     14520     `
+/335            0           0     0     644     8568      `
+/353            0           0     0     644     10112     `
+/371            0           0     0     644     3752      `
+/390            0           0     0     644     15008     `
+/409            0           0     0     644     3064      `
+/422            0           0     0     644     14152     `

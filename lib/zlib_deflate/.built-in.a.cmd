@@ -1,0 +1,1 @@
+cmd_lib/zlib_deflate/built-in.a := echo >/dev/null; rm -f lib/zlib_deflate/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST lib/zlib_deflate/built-in.a lib/zlib_deflate/deflate.o lib/zlib_deflate/deftree.o lib/zlib_deflate/deflate_syms.o

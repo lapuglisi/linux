@@ -1,0 +1,8 @@
+!<thin>
+//                                              68        `
+phy-core.o/
+allwinner/phy-sun4i-usb.o/
+allwinner/phy-sun50i-usb3.o/
+/0              0           0     0     644     40672     `
+/12            /0           0     0     644     23072     `
+/39             0           0     0     644     7288      `

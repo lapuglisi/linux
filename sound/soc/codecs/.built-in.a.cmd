@@ -1,0 +1,1 @@
+cmd_sound/soc/codecs/built-in.a := echo >/dev/null; rm -f sound/soc/codecs/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST sound/soc/codecs/built-in.a sound/soc/codecs/hdmi-codec.o sound/soc/codecs/spdif_receiver.o sound/soc/codecs/spdif_transmitter.o

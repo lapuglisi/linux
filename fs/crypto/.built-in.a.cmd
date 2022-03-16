@@ -1,0 +1,1 @@
+cmd_fs/crypto/built-in.a := echo >/dev/null; rm -f fs/crypto/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST fs/crypto/built-in.a fs/crypto/crypto.o fs/crypto/fname.o fs/crypto/hkdf.o fs/crypto/hooks.o fs/crypto/keyring.o fs/crypto/keysetup.o fs/crypto/keysetup_v1.o fs/crypto/policy.o fs/crypto/bio.o

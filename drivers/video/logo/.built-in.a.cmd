@@ -1,0 +1,1 @@
+cmd_drivers/video/logo/built-in.a := echo >/dev/null; rm -f drivers/video/logo/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST drivers/video/logo/built-in.a drivers/video/logo/logo.o drivers/video/logo/logo_linux_mono.o drivers/video/logo/logo_linux_vga16.o drivers/video/logo/logo_linux_clut224.o

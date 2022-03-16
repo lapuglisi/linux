@@ -1,0 +1,1 @@
+cmd_fs/notify/inotify/built-in.a := echo >/dev/null; rm -f fs/notify/inotify/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST fs/notify/inotify/built-in.a fs/notify/inotify/inotify_fsnotify.o fs/notify/inotify/inotify_user.o

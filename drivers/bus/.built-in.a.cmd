@@ -1,0 +1,1 @@
+cmd_drivers/bus/built-in.a := echo >/dev/null; rm -f drivers/bus/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST drivers/bus/built-in.a drivers/bus/arm-cci.o drivers/bus/sun50i-de2.o drivers/bus/sunxi-rsb.o

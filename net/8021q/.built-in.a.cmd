@@ -1,0 +1,1 @@
+cmd_net/8021q/built-in.a := echo >/dev/null; rm -f net/8021q/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST net/8021q/built-in.a net/8021q/vlan_core.o net/8021q/vlan.o net/8021q/vlan_dev.o net/8021q/vlan_netlink.o net/8021q/vlanproc.o

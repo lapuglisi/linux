@@ -1,0 +1,1 @@
+cmd_lib/lz4/built-in.a := echo >/dev/null; rm -f lib/lz4/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST lib/lz4/built-in.a lib/lz4/lz4_compress.o lib/lz4/lz4hc_compress.o lib/lz4/lz4_decompress.o

@@ -1,0 +1,1 @@
+cmd_lib/zlib_inflate/built-in.a := echo >/dev/null; rm -f lib/zlib_inflate/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST lib/zlib_inflate/built-in.a lib/zlib_inflate/inffast.o lib/zlib_inflate/inflate.o lib/zlib_inflate/infutil.o lib/zlib_inflate/inftrees.o lib/zlib_inflate/inflate_syms.o

@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/built-in.a := echo >/dev/null; rm -f drivers/video/fbdev/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST drivers/video/fbdev/built-in.a drivers/video/fbdev/core/built-in.a drivers/video/fbdev/omap2/built-in.a

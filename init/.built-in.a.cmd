@@ -1,0 +1,1 @@
+cmd_init/built-in.a := echo >/dev/null; rm -f init/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST init/built-in.a init/main.o init/version.o init/do_mounts.o init/do_mounts_initrd.o init/initramfs.o init/calibrate.o init/init_task.o

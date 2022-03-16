@@ -1,0 +1,1 @@
+cmd_net/rfkill/built-in.a := echo >/dev/null; rm -f net/rfkill/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST net/rfkill/built-in.a net/rfkill/core.o net/rfkill/input.o net/rfkill/rfkill-gpio.o

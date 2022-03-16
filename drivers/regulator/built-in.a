@@ -1,0 +1,24 @@
+!<thin>
+//                                              160       `
+core.o/
+dummy.o/
+fixed-helper.o/
+helpers.o/
+devres.o/
+of_regulator.o/
+fixed.o/
+userspace-consumer.o/
+axp20x-regulator.o/
+gpio-regulator.o/
+sy8106a-regulator.o/
+/0              0           0     0     644     121512    `
+/8              0           0     0     644     4272      `
+/17             0           0     0     644     2048      `
+/33             0           0     0     644     24896     `
+/44             0           0     0     644     15624     `
+/54             0           0     0     644     14704     `
+/70             0           0     0     644     9928      `
+/79             0           0     0     644     7592      `
+/101            0           0     0     644     58832     `
+/121            0           0     0     644     10256     `
+/139            0           0     0     644     7288      `

@@ -1,0 +1,1 @@
+cmd_net/bridge/netfilter/built-in.a := echo >/dev/null; rm -f net/bridge/netfilter/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST net/bridge/netfilter/built-in.a net/bridge/netfilter/nft_reject_bridge.o net/bridge/netfilter/nf_log_bridge.o

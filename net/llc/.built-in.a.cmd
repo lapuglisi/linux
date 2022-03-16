@@ -1,0 +1,1 @@
+cmd_net/llc/built-in.a := echo >/dev/null; rm -f net/llc/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST net/llc/built-in.a net/llc/llc_core.o net/llc/llc_input.o net/llc/llc_output.o

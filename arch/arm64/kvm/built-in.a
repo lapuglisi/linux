@@ -1,0 +1,104 @@
+!<thin>
+//                                              834       `
+../../../virt/kvm/kvm_main.o/
+../../../virt/kvm/coalesced_mmio.o/
+../../../virt/kvm/eventfd.o/
+../../../virt/kvm/vfio.o/
+../../../virt/kvm/irqchip.o/
+arm.o/
+mmu.o/
+mmio.o/
+psci.o/
+perf.o/
+hypercalls.o/
+pvtime.o/
+inject_fault.o/
+va_layout.o/
+handle_exit.o/
+guest.o/
+debug.o/
+reset.o/
+sys_regs.o/
+vgic-sys-reg-v3.o/
+fpsimd.o/
+pmu.o/
+arch_timer.o/
+trng.o/
+vgic/vgic.o/
+vgic/vgic-init.o/
+vgic/vgic-irqfd.o/
+vgic/vgic-v2.o/
+vgic/vgic-v3.o/
+vgic/vgic-v4.o/
+vgic/vgic-mmio.o/
+vgic/vgic-mmio-v2.o/
+vgic/vgic-mmio-v3.o/
+vgic/vgic-kvm-device.o/
+vgic/vgic-its.o/
+vgic/vgic-debug.o/
+pmu-emul.o/
+hyp/vhe/timer-sr.o/
+hyp/vhe/sysreg-sr.o/
+hyp/vhe/debug-sr.o/
+hyp/vhe/switch.o/
+hyp/vhe/tlb.o/
+hyp/vgic-v3-sr.o/
+hyp/aarch32.o/
+hyp/vgic-v2-cpuif-proxy.o/
+hyp/entry.o/
+hyp/fpsimd.o/
+hyp/hyp-entry.o/
+hyp/exception.o/
+hyp/nvhe/kvm_nvhe.o/
+hyp/pgtable.o/
+/0              0           0     0     644     136896    `
+/30             0           0     0     644     4264      `
+/66             0           0     0     644     19144     `
+/95             0           0     0     644     6360      `
+/121            0           0     0     644     4328      `
+/150            0           0     0     644     52600     `
+/157            0           0     0     644     25984     `
+/164            0           0     0     644     3656      `
+/172            0           0     0     644     8608      `
+/180            0           0     0     644     2328      `
+/188            0           0     0     644     2720      `
+/202            0           0     0     644     4816      `
+/212            0           0     0     644     2232      `
+/228            0           0     0     644     7232      `
+/241            0           0     0     644     7720      `
+/256            0           0     0     644     17232     `
+/265            0           0     0     644     4448      `
+/274            0           0     0     644     9096      `
+/283            0           0     0     644     135456    `
+/295            0           0     0     644     6144      `
+/314            0           0     0     644     5816      `
+/324            0           0     0     644     6648      `
+/331            0           0     0     644     23040     `
+/345            0           0     0     644     1936      `
+/353            0           0     0     644     28504     `
+/366            0           0     0     644     9728      `
+/384            0           0     0     644     2592      `
+/403            0           0     0     644     9448      `
+/419            0           0     0     644     19568     `
+/435            0           0     0     644     11096     `
+/451            0           0     0     644     27496     `
+/469            0           0     0     644     12816     `
+/490            0           0     0     644     21344     `
+/511            0           0     0     644     10800     `
+/535            0           0     0     644     39472     `
+/552            0           0     0     644     8928      `
+/571            0           0     0     644     12824     `
+/583            0           0     0     644     1016      `
+/603            0           0     0     644     6360      `
+/624            0           0     0     644     4048      `
+/644            0           0     0     644     15376     `
+/662            0           0     0     644     4688      `
+/677            0           0     0     644     10672     `
+/695            0           0     0     644     1640      `
+/710            0           0     0     644     3056      `
+/737            0           0     0     644     2760      `
+/750            0           0     0     644     960       `
+/764            0           0     0     644     17696     `
+/781            0           0     0     644     2104      `
+/798            0           0     0     644     80008     `
+/819            0           0     0     644     15600     `

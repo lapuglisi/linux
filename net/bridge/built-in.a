@@ -1,0 +1,57 @@
+!<thin>
+//                                              424       `
+br.o/
+br_device.o/
+br_fdb.o/
+br_forward.o/
+br_if.o/
+br_input.o/
+br_ioctl.o/
+br_stp.o/
+br_stp_bpdu.o/
+br_stp_if.o/
+br_stp_timer.o/
+br_netlink.o/
+br_netlink_tunnel.o/
+br_arp_nd_proxy.o/
+br_sysfs_if.o/
+br_sysfs_br.o/
+br_nf_core.o/
+br_multicast.o/
+br_mdb.o/
+br_multicast_eht.o/
+br_vlan.o/
+br_vlan_tunnel.o/
+br_vlan_options.o/
+br_netfilter_hooks.o/
+br_netfilter_ipv6.o/
+netfilter/nft_reject_bridge.o/
+netfilter/nf_log_bridge.o/
+
+/0              0           0     0     644     11360     `
+/6              0           0     0     644     14200     `
+/19             0           0     0     644     38408     `
+/29             0           0     0     644     8024      `
+/43             0           0     0     644     18272     `
+/52             0           0     0     644     8184      `
+/64             0           0     0     644     9136      `
+/76             0           0     0     644     12480     `
+/86             0           0     0     644     5632      `
+/101            0           0     0     644     11032     `
+/114            0           0     0     644     6768      `
+/130            0           0     0     644     29464     `
+/144            0           0     0     644     5112      `
+/165            0           0     0     644     7968      `
+/184            0           0     0     644     18928     `
+/199            0           0     0     644     32424     `
+/214            0           0     0     644     2888      `
+/228            0           0     0     644     74872     `
+/244            0           0     0     644     22184     `
+/254            0           0     0     644     10792     `
+/274            0           0     0     644     50960     `
+/285            0           0     0     644     11080     `
+/303            0           0     0     644     6592      `
+/322            0           0     0     644     26024     `
+/344            0           0     0     644     4896      `
+/365            0           0     0     644     6312      `
+/396           /0           0     0     644     4904      `

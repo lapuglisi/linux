@@ -1,0 +1,1 @@
+cmd_net/netlink/built-in.a := echo >/dev/null; rm -f net/netlink/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST net/netlink/built-in.a net/netlink/af_netlink.o net/netlink/genetlink.o net/netlink/policy.o

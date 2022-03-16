@@ -1,0 +1,1 @@
+cmd_net/dns_resolver/built-in.a := echo >/dev/null; rm -f net/dns_resolver/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST net/dns_resolver/built-in.a net/dns_resolver/dns_key.o net/dns_resolver/dns_query.o

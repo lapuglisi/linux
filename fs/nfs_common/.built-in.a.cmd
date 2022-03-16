@@ -1,0 +1,1 @@
+cmd_fs/nfs_common/built-in.a := echo >/dev/null; rm -f fs/nfs_common/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST fs/nfs_common/built-in.a fs/nfs_common/nfsacl.o fs/nfs_common/grace.o fs/nfs_common/nfs_ssc.o

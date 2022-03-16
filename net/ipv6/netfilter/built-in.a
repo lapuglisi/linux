@@ -1,0 +1,25 @@
+!<thin>
+//                                              204       `
+nf_defrag_ipv6_hooks.o/
+nf_conntrack_reasm.o/
+nf_socket_ipv6.o/
+nf_tproxy_ipv6.o/
+nf_log_ipv6.o/
+nf_reject_ipv6.o/
+nf_dup_ipv6.o/
+nft_reject_ipv6.o/
+nft_dup_ipv6.o/
+nft_fib_ipv6.o/
+nf_flow_table_ipv6.o/
+
+/0              0           0     0     644     5976      `
+/24             0           0     0     644     13184     `
+/46             0           0     0     644     3680      `
+/64             0           0     0     644     7912      `
+/82             0           0     0     644     11544     `
+/97             0           0     0     644     10792     `
+/115            0           0     0     644     4384      `
+/130            0           0     0     644     4720      `
+/149            0           0     0     644     4912      `
+/165            0           0     0     644     8240      `
+/181            0           0     0     644     3760      `

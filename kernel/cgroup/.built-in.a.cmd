@@ -1,0 +1,1 @@
+cmd_kernel/cgroup/built-in.a := echo >/dev/null; rm -f kernel/cgroup/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST kernel/cgroup/built-in.a kernel/cgroup/cgroup.o kernel/cgroup/rstat.o kernel/cgroup/namespace.o kernel/cgroup/cgroup-v1.o kernel/cgroup/freezer.o kernel/cgroup/pids.o kernel/cgroup/cpuset.o

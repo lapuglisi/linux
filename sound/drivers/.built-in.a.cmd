@@ -1,0 +1,1 @@
+cmd_sound/drivers/built-in.a := echo >/dev/null; rm -f sound/drivers/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST sound/drivers/built-in.a sound/drivers/opl3/built-in.a sound/drivers/opl4/built-in.a sound/drivers/mpu401/built-in.a sound/drivers/vx/built-in.a sound/drivers/pcsp/built-in.a

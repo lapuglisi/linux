@@ -1,0 +1,1 @@
+cmd_fs/fat/built-in.a := echo >/dev/null; rm -f fs/fat/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST fs/fat/built-in.a fs/fat/cache.o fs/fat/dir.o fs/fat/fatent.o fs/fat/file.o fs/fat/inode.o fs/fat/misc.o fs/fat/nfs.o fs/fat/namei_vfat.o

@@ -1,0 +1,1 @@
+cmd_security/keys/encrypted-keys/built-in.a := echo >/dev/null; rm -f security/keys/encrypted-keys/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST security/keys/encrypted-keys/built-in.a security/keys/encrypted-keys/encrypted.o security/keys/encrypted-keys/ecryptfs_format.o

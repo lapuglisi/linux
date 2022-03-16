@@ -1,0 +1,1 @@
+cmd_arch/arm64/kvm/hyp/nvhe/kvm_nvhe.o := /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-objcopy --prefix-symbols=__kvm_nvhe_ arch/arm64/kvm/hyp/nvhe/kvm_nvhe.rel.o arch/arm64/kvm/hyp/nvhe/kvm_nvhe.o

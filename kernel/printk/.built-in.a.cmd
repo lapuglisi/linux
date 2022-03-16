@@ -1,0 +1,1 @@
+cmd_kernel/printk/built-in.a := echo >/dev/null; rm -f kernel/printk/built-in.a; /opt/toolchains/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar cDPrST kernel/printk/built-in.a kernel/printk/printk.o kernel/printk/printk_safe.o kernel/printk/printk_ringbuffer.o

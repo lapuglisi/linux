@@ -1,0 +1,64 @@
+!<thin>
+//                                              390       `
+sm_statetable.o/
+sm_statefuns.o/
+sm_sideeffect.o/
+protocol.o/
+endpointola.o/
+associola.o/
+transport.o/
+chunk.o/
+sm_make_chunk.o/
+ulpevent.o/
+inqueue.o/
+outqueue.o/
+ulpqueue.o/
+tsnmap.o/
+bind_addr.o/
+socket.o/
+primitive.o/
+output.o/
+input.o/
+debug.o/
+stream.o/
+auth.o/
+offload.o/
+stream_sched.o/
+stream_sched_prio.o/
+stream_sched_rr.o/
+stream_interleave.o/
+proc.o/
+sysctl.o/
+ipv6.o/
+diag.o/
+/0             /0           0     0     644     30144     `
+/17             0           0     0     644     59560     `
+/33            /0           0     0     644     18656     `
+/50             0           0     0     644     32296     `
+/62             0           0     0     644     8248      `
+/77             0           0     0     644     22440     `
+/90             0           0     0     644     11896     `
+/103            0           0     0     644     6976      `
+/112           /0           0     0     644     31352     `
+/129            0           0     0     644     21216     `
+/141            0           0     0     644     3120      `
+/152            0           0     0     644     16920     `
+/164            0           0     0     644     11032     `
+/176            0           0     0     644     4416      `
+/186            0           0     0     644     6232      `
+/199            0           0     0     644     103776    `
+/209            0           0     0     644     2408      `
+/222            0           0     0     644     10464     `
+/232            0           0     0     644     25552     `
+/241            0           0     0     644     5816      `
+/250            0           0     0     644     15128     `
+/260            0           0     0     644     12192     `
+/268            0           0     0     644     3712      `
+/279            0           0     0     644     4792      `
+/295            0           0     0     644     5080      `
+/316            0           0     0     644     3456      `
+/335            0           0     0     644     15696     `
+/356            0           0     0     644     12704     `
+/364            0           0     0     644     13224     `
+/374            0           0     0     644     22328     `
+/382            0           0     0     644     9296      `
